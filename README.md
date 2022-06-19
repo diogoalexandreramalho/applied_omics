@@ -13,7 +13,7 @@ Some of the files required as input or output of some of code scripts can not be
 + mart_export.txt
 + transcripts.idx 
 
-The structure of this project was guided by several questions. 
+The structure of this project was guided by several questions.
 
 Therefore, inside the directory **code**, you can find the code scripts (in ***R***) used to answer each question. 
 
