@@ -1,6 +1,6 @@
 # Applied Omics
 
-*Project developed in the Bioinformatics course, at IST (Lisboa)*
+*Project developed in the Bioinformatics course, at IST (Lisboa).*
 
 The objective of this project was to analyze a clinically annotated breast cancer transcriptomics dataset from The Cancer Genome Atlas (TCGA), namely to estimate gene expression in a cohort of tumors and some matched normal samples and use that information to find molecular features potentially relevant for understanding the biology of the disease and for its clinical management. 
 
